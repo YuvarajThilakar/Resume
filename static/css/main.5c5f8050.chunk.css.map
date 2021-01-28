@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACC,sBACD,CAEA,aACC,UACD,CAEA,SACC,cACD,CAEA,cACC,mBACD","file":"main.5c5f8050.chunk.css","sourcesContent":["html {\n\tscroll-behavior: smooth;\n}\n\n#intro-image{\n\topacity: 0.9;\n}\n\n#testing{\n\tdisplay: inline;\n}\n\n.calibri-font {\n\tfont-family: Calibri;\n}"]}
